@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main ( ) {
+	int a , b , x ;
+	a = 5 ;
+	b = 10 ;
+	x = a + b ;
+	printf ( "The output is %d" , x ) ;
+	return 0;
+}

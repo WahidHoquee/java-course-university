@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96236782-134b-4c7b-8705-730b8ecdc0dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRtfZrvnCQzFRsmzzmtZnFWVZV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Ritu">
+    <configuration name="PatternCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternCheck" />
+      <module name="PatternChecker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ritu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ritu" />
+      <module name="PatternChecker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileFetch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileFetch" />
+      <module name="PatternChecker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ritu" />
+        <item itemvalue="Application.PatternCheck" />
+        <item itemvalue="Application.fileFetch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96236782-134b-4c7b-8705-730b8ecdc0dc" name="Default Changelist" comment="" />
+      <created>1586710337263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586710337263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1586710362383">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586710362383" />
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1586788911019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911019" />
+    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1586788911018">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.center/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911018" />
+    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1586788911018">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.left/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911018" />
+    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1586788911018">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.right/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911018" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1586788911019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911019" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1586788911019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911019" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1586788911019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911019" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1586788911019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586788911019" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586774668415">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586774668415" />
+    <state x="342" y="160" key="new project wizard" timestamp="1586779471295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586779471295" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1586762300040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/3840.-21.1920.1080/1920.-7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586762300040" />
+  </component>
+</project>

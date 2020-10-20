@@ -1,0 +1,27 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class fileFetch {
+
+	public static void main(String[] args) {
+		 try{
+	            FileReader fileReader = new FileReader("Wahid.txt");
+	            BufferedReader reader = new BufferedReader(fileReader);
+	            
+	            int lineNo = 1;
+	            String line = reader.readLine();
+	                while(line != null){
+	                	System.out.println("Line "+lineNo+" "+line);    
+	                    lineNo++;
+	                    line = reader.readLine();
+	                }
+	            reader.close();
+	            
+	        }
+	        catch(IOException e){
+	            e.printStackTrace();
+	        }
+	}
+
+}

@@ -1,0 +1,10 @@
+import com.sun.tools.javac.code.Attribute.Array;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int[] arr = new int[3];
+		System.out.println(arr);
+	}
+
+}
